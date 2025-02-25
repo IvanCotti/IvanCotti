@@ -1,6 +1,9 @@
 # 📖 About Me:
-I work in the new Cyber ​​Defense Division of the Argentine Army as project manager developing systems and providing maintenance to them since 2020. I am also trained as a Lvl 2 cybersecurity analyst (SOC).<br> I am currently looking for a job as a FullStack developer focused on Frontend. I always seek to learn new things and I have no problem adapting to the client's needs.
+💻 Full-Stack Web Developer with Frontend Specialization & Cybersecurity Analyst
 
+As a Full-Stack Developer, I have experience in web development and cybersecurity. My main focus is on building reactive and optimized interfaces using React, Vue, and NodeJS, while also having experience in backend development and database management.
+
+As a Level 2 Cybersecurity Analyst, I managed a team of up to 4 people in a SOC, where my responsibilities included assigning, supervising, and resolving anomalous network events, as well as monitoring SIEM systems.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ivan-alejandro-cotti) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cottivan)
