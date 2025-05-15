@@ -2,10 +2,11 @@
 ## 💻 Full-Stack Web Developer with Frontend Specialization & Cybersecurity Analyst
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ivan-alejandro-cotti)
 
-As a Full-Stack Developer, I have experience in web development and cybersecurity. My main focus is on building reactive and optimized interfaces using React, Vue, and NodeJS, while also having experience in backend development and database management.
+As a **full-stack developer**, I have experience in developing responsive web interfaces, building APIs and backend servers, managing databases and virtual machines, configuring Docker, and overseeing projects in the role of Project Manager.
 
-As a Level 2 Cybersecurity Analyst, I managed a team of up to 4 people in a SOC, where my responsibilities included assigning, supervising, and resolving anomalous network events, as well as monitoring SIEM systems.
+As a **Level 2 Cybersecurity Analyst**, I led a team of up to 4 members in a Security Operations Center (SOC), with responsibilities including the assignment, supervision, and resolution of anomalous network events, SIEM monitoring, EDR usage, and client communication and follow-ups in alignment with ISO/IEC 27001 standards.
 
+As a **freelance web developer**, I am skilled in brand design, custom landing page development, public and private API integration, and web hosting deployment.
 
 ## Technology Stack:
 
@@ -51,7 +52,7 @@ As a Level 2 Cybersecurity Analyst, I managed a team of up to 4 people in a SOC,
 > ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 > ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
 > ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-> 
+
 > #### Project Management
 > ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 > ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
