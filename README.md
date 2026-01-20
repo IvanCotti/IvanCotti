@@ -1,12 +1,6 @@
 
-## 💻 Full-Stack Web Developer with Frontend Specialization & Cybersecurity Analyst
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ivan-alejandro-cotti)
+## Full-Stack Software Developer & Cybersecurity Analyst
 
-As a **full-stack developer**, I have experience in developing responsive web interfaces, building APIs and backend servers, managing databases and virtual machines, configuring Docker, and overseeing projects in the role of Project Manager.
-
-As a **Level 2 Cybersecurity Analyst**, I led a team of up to 4 members in a Security Operations Center (SOC), with responsibilities including the assignment, supervision, and resolution of anomalous network events, SIEM monitoring, EDR usage, and client communication and follow-ups in alignment with ISO/IEC 27001 standards.
-
-As a **freelance web developer**, I am skilled in brand design, custom landing page development, API integration, and web hosting deployment.
 
 ## Technology Stack:
 
